@@ -1,0 +1,22 @@
+.topnav{
+    position: fixed;
+    top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+ul{
+    list-style: none;
+    
+}
+ul li{
+    margin-left: 40px;
+}
+ul li a{
+   
+        color: #ffffff;
+        text-decoration: none;
+  
+}
+.ml-5{
+    margin-left: 100px;
+}
